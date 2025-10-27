@@ -11,6 +11,10 @@ A mesmerizing starfield animation featuring twinkling stars, shooting stars with
 - Shooting stars with glowing trails
 - Deep space aesthetic with dark blue-black background
 
+## Screenshots
+- ![Cosmic Starfield Demo 1](./screenshots%20&%20recordings/demo1.png)
+- ![Cosmic Starfield Demo 2](./screenshots%20&%20recordings/demo2.png)
+
 ## Requirements
 
 - Python 3.7+
