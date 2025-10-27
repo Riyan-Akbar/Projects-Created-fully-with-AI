@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-python starfield.py
+python starfield_py.py
 ```
 
 Close the window to exit.
