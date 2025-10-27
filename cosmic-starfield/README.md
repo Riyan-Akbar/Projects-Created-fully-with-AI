@@ -2,7 +2,6 @@
 
 A mesmerizing starfield animation featuring twinkling stars, shooting stars with trails, and animated constellations.
 
-![Demo](./screenshots%20&%20recordings/Screen%20Recording%202025-10-27%20124137.mp4)
 
 ## Features
 
