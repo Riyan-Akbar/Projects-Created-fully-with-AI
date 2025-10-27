@@ -13,6 +13,7 @@ A mesmerizing starfield animation featuring twinkling stars, shooting stars with
 
 ## Screenshots
 - ![Cosmic Starfield Demo 1](./screenshots%20&%20recordings/demo1.png)
+
 - ![Cosmic Starfield Demo 2](./screenshots%20&%20recordings/demo2.png)
 
 ## Requirements
