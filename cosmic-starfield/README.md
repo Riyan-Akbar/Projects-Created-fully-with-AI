@@ -32,6 +32,10 @@ python starfield_py.py
 
 Close the window to exit.
 
+## Badges
+![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
+![Pygame](https://img.shields.io/badge/pygame-2.0+-green.svg)
+
 ## Author
 
 Riyan Akbar - Created with AI assistance
